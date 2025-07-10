@@ -78,6 +78,7 @@ PostgreSQL JDBC with basic DAO pattern
 
 
 
+<img width="536" height="189" alt="Screenshot 2025-07-10 183526" src="https://github.com/user-attachments/assets/404542b2-ba8e-4766-b345-24ef4f581b05" />
 
 
 ![Screenshot 2025-07-10 183526](https://github.com/GirishPawar15/Student_Management/blob/main/Screenshot%202025-07-10%20183526.png)
