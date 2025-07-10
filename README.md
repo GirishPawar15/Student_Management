@@ -77,4 +77,6 @@ PostgreSQL JDBC with basic DAO pattern
     org.postgresql postgresql 42.7.1
 
 
-![Screenshot](https://github.com/GirishPawar15/Student_Management/blob/main/Screenshot%202025-07-03%20190420.png)
+
+
+<img width="536" height="189" alt="Screenshot 2025-07-10 183526" src="https://github.com/user-attachments/assets/f84e2ce4-e95e-4735-bafc-e7d8f310201c" />
