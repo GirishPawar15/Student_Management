@@ -76,5 +76,4 @@ PostgreSQL JDBC with basic DAO pattern
     📦 Dependencies (in pom.xml)
     org.postgresql postgresql 42.7.1
 
-[<img width="536" height="189" alt="Image" src="https://github.com/user-attachments/assets/90898c50-7388-46a4-a200-bc44c71bc81d" />
-](https://github.com/GirishPawar15/Student_Management/issues/1#issue-3219355975)
+
