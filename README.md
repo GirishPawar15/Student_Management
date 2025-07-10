@@ -79,4 +79,4 @@ PostgreSQL JDBC with basic DAO pattern
 
 
 
-![Screenshot](https://github.com/GirishPawar15/Student_Management/blob/main/Screenshot%202025-07-10%20183526.png)
+![image](https://github.com/GirishPawar15/Student_Management/blob/main/Screenshot%202025-07-10%20183526.png)
