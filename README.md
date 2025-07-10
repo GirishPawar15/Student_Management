@@ -79,7 +79,7 @@ PostgreSQL JDBC with basic DAO pattern
 
 
 
-
+<img src="Screenshot%202025-07-10%20183526.png" alt="Demo" width="600">
 
 ![Screenshot 2025-07-10 183526](Screenshot%202025-07-10%20183526.png)
 
