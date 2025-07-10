@@ -75,5 +75,5 @@ CREATE TABLE IF NOT EXISTS applicants (
 PostgreSQL JDBC with basic DAO pattern
     📦 Dependencies (in pom.xml)
     org.postgresql postgresql 42.7.1
------Console Output-----
-<img width="536" height="189" alt="Screenshot 2025-07-10 183526" src="https://github.com/user-attachments/assets/c7c966b9-b137-4c64-b9ec-bc754b5bf11d" />
+
+<img width="536" height="189" alt="Image" src="https://github.com/user-attachments/assets/90898c50-7388-46a4-a200-bc44c71bc81d" />
